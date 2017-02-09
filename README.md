@@ -35,11 +35,11 @@ For datesets, build a script that can download datasets automatically, or use re
 3. [AI core work](https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU)
 4. [Deep Pose](https://github.com/mitmul/deeppose) 这篇文章以后可能会用到
 5. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf) 这篇文章很吊，目标是图灵测试  
-  6.CVPR-2016 http://www.cv-foundation.org/openaccess/CVPR2016.py  
-  7.ICCV 2015(ICCV两年一次，16年未开) http://www.cv-foundation.org/openaccess/ICCV2015.py  
-  8.CVPR 2015 http://www.cv-foundation.org/openaccess/CVPR2015.py
-  9.ICPR 2014 http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6966883
-  10.PAMI (需要登陆或充值，IEEE的库用学校网络或许可以直接查看) http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+6.CVPR-2016 http://www.cv-foundation.org/openaccess/CVPR2016.py  
+7.ICCV 2015(ICCV两年一次，16年未开) http://www.cv-foundation.org/openaccess/ICCV2015.py  
+8.CVPR 2015 http://www.cv-foundation.org/openaccess/CVPR2015.py  
+9.ICPR 2014 http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6966883  
+10.PAMI (需要登陆或充值，IEEE的库用学校网络或许可以直接查看) http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
 
 
 ## Videos
