@@ -1,11 +1,9 @@
-# Kaggle projects（with lots of grammar mistakes, just ignore them!）
-This projects include all source and link for Kaggle competition.
-And materials related to DL learning, Pytorch, Tensorflow. 
+# Kaggle project description（Grammar corrected by lovely Jin）
+This description includes all sources and links for our Kaggle competition and materials related to DL learning, Pytorch and Tensorflow. 
 You can add good references about Deep Learning, and put the links under corresponding section.
-Remember, don't push articles and datasets directly to the github.
+Remember, don't push articles or datasets directly to the github.
 For articles, please put the links in README.md file under "Papers" section
-For datesets, build a script that can download datasets automatically, 
-or use remote datasets on AWS S3.
+For datesets, build a script that can download datasets automatically, or use remote datasets on AWS S3.
 
 
 ## Pytorch resource
