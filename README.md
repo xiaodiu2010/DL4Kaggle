@@ -34,8 +34,7 @@ For datesets, build a script that can download datasets automatically, or use re
 2. [Deep Learning RoadMap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 3. [AI core work](https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU)
 4. [Deep Pose](https://github.com/mitmul/deeppose) 这篇文章以后可能会用到
-5. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf) 这篇文章很吊，目标是图灵测试
-
+5. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf) 这篇文章很吊，目标是图灵测试  
   6.CVPR-2016 http://www.cv-foundation.org/openaccess/CVPR2016.py  
   7.ICCV 2015(ICCV两年一次，16年未开) http://www.cv-foundation.org/openaccess/ICCV2015.py  
   8.CVPR 2015 http://www.cv-foundation.org/openaccess/CVPR2015.py
