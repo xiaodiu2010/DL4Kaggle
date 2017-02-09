@@ -1,5 +1,4 @@
-# Kaggle projects
-
+# Kaggle projects（with lots of grammar mistakes, just ignore them!）
 This projects include all source and link for Kaggle competition.
 And materials related to DL learning, Pytorch, Tensorflow. 
 You can add good references about Deep Learning, and put the links under corresponding section.
