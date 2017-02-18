@@ -1,9 +1,22 @@
-# Kaggle project description（Grammar corrected by lovely Jin）
+# DeepLearning Resources（Grammar corrected by lovely Jin）
 This description includes all sources and links for our Kaggle competition and materials related to DL learning, Pytorch and Tensorflow. 
 You can add good references about Deep Learning, and put the links under corresponding section.
 Remember, don't push articles or datasets directly to the github.
 For articles, please put the links in README.md file under "Papers" section
 For datesets, build a script that can download datasets automatically, or use remote datasets on AWS S3.
+
+
+## Tutorials, notes and books
+
+1. [Deep Learning RoadMap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)  
+	[DL Learning path](http://yerevann.com/a-guide-to-deep-learning/)  
+2. [Reinforcement Learning guide](https://github.com/0bserver07/Study-Reinforcement-Learning)
+3. [CS231n slides and notes](http://cs231n.stanford.edu/syllabus_winter2015.html)
+4. [Deep learning book](http://www.deeplearningbook.org/)
+5. [UFLDL](http://deeplearning.stanford.edu/tutorial/)
+6. [DL Tutorial](http://www.deeplearning.net/tutorial/mlp.html)
+7. [DL Tutorial](http://neuralnetworksanddeeplearning.com/chap1.html)
+8. [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
 
 ## Pytorch resource
@@ -23,6 +36,11 @@ For datesets, build a script that can download datasets automatically, or use re
 13. [simple pytorch example](https://github.com/jcjohnson/pytorch-examples)
 14. [pytorch practice](https://github.com/spro/practical-pytorch)
 15. [pytorch tutorial](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
+16. [pytorch resource](https://github.com/rickiepark/awesome-pytorch)
+17. [neural talk by pytorch](https://github.com/ruotianluo/neuraltalk2.pytorch)  
+	[neural talk paper1](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)  
+	[neural talk paper2](https://arxiv.org/pdf/1411.4555.pdf)
+18. [pytorch implement caffe resnet](https://github.com/ruotianluo/pytorch-resnet/blob/master/resnet.py)
 
 ## TensorFlow
 
@@ -31,6 +49,7 @@ For datesets, build a script that can download datasets automatically, or use re
 	[论文链接](https://arxiv.org/abs/1702.02138)
 3. [keras toolbox](https://github.com/hadim/keras-toolbox)
 4. [Tensorflow for ML](https://github.com/backstopmedia/tensorflowbook)
+5. [tensorflow GAN](https://github.com/shekkizh/WassersteinGAN.tensorflow)
 
 
 
@@ -43,7 +62,6 @@ For datesets, build a script that can download datasets automatically, or use re
    [Generative-models](https://github.com/wiseodd/generative-models)  
    [Generate images by Generative model](https://github.com/jhayes14/GAN)
    [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)
-2. [Deep Learning RoadMap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 3. [AI core work](https://github.com/ceobillionaire/WHAT-AI-CAN-DO-FOR-YOU)
 4. [Deep Pose](https://github.com/mitmul/deeppose) 这篇文章以后可能会用到
 5. [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf) 这篇文章很吊，目标是图灵测试  
@@ -63,10 +81,25 @@ For datesets, build a script that can download datasets automatically, or use re
 1. [Machine Learning Video resource](https://hackmd.io/MYJgbArAjMYgtABilAnPALCgzPARgBwAmBmAZhsBAYnqhntkA===?view)
 2. [MIT Intro to deep learning](http://weibo.wbdacdn.com/url/t/RxuOhKQ/)
 3. [cs294:Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+4. [DL school](https://www.bayareadlschool.org/)
+5. [Hugo's DL course](http://info.usherbrooke.ca/hlarochelle/neural_networks/evaluations.html)
+6. [Videos list on DL](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 
 ## Projects
 
 1. [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/)
 2. [Deep Learning by examples](https://github.com/PaddlePaddle/book)
+3. [GAN for Galaxy](http://space.ml/proj/GalaxyGAN.html)
+
+
+## Dataset
+
+1. [Youtube 视频标记数据集](https://research.google.com/youtube-bb/download.html)
+
+## Reinforcement Learning
+
+1. [RL github project](https://github.com/aikorea/awesome-rl)
+2. [RL Intro book](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+
 
 
