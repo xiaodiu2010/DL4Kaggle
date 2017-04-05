@@ -29,10 +29,10 @@ tf.app.flags.DEFINE_string(
 	'train_dir', '/tmp/tfmodel/',
 	'Directory where checkpoints and event logs are written to.')
 tf.app.flags.DEFINE_string(
-	'gpu_data', '/cpu:0',
+	'gpu_data', '/gpu:0',
 	'Which gpu to use')
 tf.app.flags.DEFINE_string(
-	'gpu_train', '/cpu:0',
+	'gpu_train', '/gpu:0',
 	'Which gpu to use')
 tf.app.flags.DEFINE_integer('num_clones', 1,
 							'Number of model clones to deploy.')
@@ -181,19 +181,19 @@ def main(_):
 		ssd_shape = ssd_net.params.img_shape
 		ssd_anchors = ssd_net.anchors(ssd_shape)
 
-		with tf.device(FLAGS.gpu_data):
-			b_image, b_gclasses, b_glocalisations, b_gscores = \
-				load_batch.get_batch(FLAGS.dataset_dir,
-								FLAGS.num_readers,
-								FLAGS.batch_size,
-								ssd_shape,
-								ssd_net,
-								ssd_anchors,
-								FLAGS.num_preprocessing_threads,
-								is_training = True)
+		
+		b_image, b_gclasses, b_glocalisations, b_gscores = \
+			load_batch.get_batch(FLAGS.dataset_dir,
+							FLAGS.num_readers,
+							FLAGS.batch_size,
+							ssd_shape,
+							ssd_net,
+							ssd_anchors,
+							FLAGS.num_preprocessing_threads,
+							is_training = True)
 
 
-
+		with tf.device(FLAGS.gpu_train):
 			arg_scope = ssd_net.arg_scope(weight_decay=FLAGS.weight_decay)
 			with slim.arg_scope(arg_scope):
 				predictions, localisations, logits, end_points = \

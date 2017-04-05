@@ -17,6 +17,11 @@ For datesets, build a script that can download datasets automatically, or use re
 6. [DL Tutorial](http://www.deeplearning.net/tutorial/mlp.html)
 7. [DL Tutorial](http://neuralnetworksanddeeplearning.com/chap1.html)
 8. [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+9. [NLP resources](https://github.com/Lab41/sunny-side-up/wiki/Learning-Resources-for-NLP,-Sentiment-Analysis,-and-Deep-Learning)
+10. [notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
+11. [Transfer learning](http://sebastianruder.com/transfer-learning/index.html)
+12. [fast ai DL course](http://course.fast.ai/lessons/lesson1.html)
+13. [Deep learning course with notes and lab](https://github.com/m2dsupsdlclass/lectures-labs)
 
 
 ## Pytorch resource
@@ -41,6 +46,9 @@ For datesets, build a script that can download datasets automatically, or use re
 	[neural talk paper1](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)  
 	[neural talk paper2](https://arxiv.org/pdf/1411.4555.pdf)
 18. [pytorch implement caffe resnet](https://github.com/ruotianluo/pytorch-resnet/blob/master/resnet.py)
+19. [pytorch openNMT](https://arxiv.org/abs/1701.02810) 
+	 [github](https://github.com/OpenNMT/OpenNMT-py)
+20. [pytorch exercise](https://github.com/keon/pytorch-exercises)
 
 ## TensorFlow
 
@@ -50,8 +58,17 @@ For datesets, build a script that can download datasets automatically, or use re
 3. [keras toolbox](https://github.com/hadim/keras-toolbox)
 4. [Tensorflow for ML](https://github.com/backstopmedia/tensorflowbook)
 5. [tensorflow GAN](https://github.com/shekkizh/WassersteinGAN.tensorflow)
-
-
+6. [ssd](https://arxiv.org/pdf/1512.02325.pdf)   
+	[ssd github](https://github.com/balancap/SSD-Tensorflow)
+7. [RCNN](https://arxiv.org/pdf/1506.01497.pdf)
+	[ssd github](https://github.com/smallcorgi/Faster-RCNN_TF) 还有很多repo,可以google
+8. [Machine learning with tensorflow book](https://github.com/BinRoot/TensorFlow-Book)
+9. [tensorflow notebook](https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb)
+10. [tensorflow exercise](https://github.com/Kyubyong/tensorflow-exercises)
+11. [DL experiments tensorflow](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/Experiments/Tensorflow/RNN/rnn_words.py)
+12. [DL resource]([](https://github.com/endymecy/awesome-deeplearning-resources))
+13. [Tensorflow code review](http://weibo.com/1402400261/EAQyoFMT3?type=comment)
+14. [Multi class text classification with CNN,RNN](https://github.com/jiegzhan/multi-class-text-classification-cnn-rnn)
 
 ## Papers
 
@@ -73,6 +90,8 @@ For datesets, build a script that can download datasets automatically, or use re
 11. [ICLR 2017](https://openreview.net/group?id=ICLR.cc/2017/conference)
 12. [A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe](https://arxiv.org/abs/1701.04949)
 13. [NLP 进展](https://handong1587.github.io/deep_learning/2016/12/06/keep-up-with-new-trends.html)
+14. [Attributing a deep network’s prediction to its input features ](http://www.unofficialgoogledatascience.com/2017/03/attributing-deep-networks-prediction-to.html)
+15. [mask RCNN](https://arxiv.org/pdf/1703.06870.pdf)
 
 
 
@@ -100,6 +119,16 @@ For datesets, build a script that can download datasets automatically, or use re
 
 1. [RL github project](https://github.com/aikorea/awesome-rl)
 2. [RL Intro book](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+3. []()
 
 
+## data Science
 
+1. [面试题](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650724442&idx=1&sn=d321d5195770982762cf138ad9fc68a4)
+
+
+## 其他领域
+
+1. [推荐系统，DeepFM](https://arxiv.org/abs/1703.04247)
+2. [Python factor analysis library](https://github.com/MaxHalford/Prince)
+3. [https://arxiv.org/pdf/1703.06843.pdf](https://arxiv.org/pdf/1703.06843.pdf)
